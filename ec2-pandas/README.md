@@ -5,4 +5,8 @@
 terraform init
 terraform plan
 terraform apply -auto-approve
+
 terraform destroy
+
+![Duckdb 1](https://raw.githubusercontent.com/jmorozcoy96/terraform-lab/main/imagenes/ec2-python-pandas/pandas1.png)
+![Duckdb 2](https://raw.githubusercontent.com/jmorozcoy96/terraform-lab/main/imagenes/ec2-python-pandas/pandas2.png)
