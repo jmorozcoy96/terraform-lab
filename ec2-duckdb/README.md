@@ -8,5 +8,8 @@ terraform apply -auto-approve
 
 terraform destroy
 
-<img width="921" height="200" alt="image" src="https://github.com/user-attachments/assets/9ee4782c-8388-4092-be44-14b19d42cf8a" />
-<img width="921" height="124" alt="image" src="https://github.com/user-attachments/assets/1fc10dba-9e9a-4b5c-9539-9ae9cc0c6851" />
+<img width="589" height="128" alt="duckdb_1" src="https://github.com/user-attachments/assets/2fccba5e-a236-4c92-87bf-ec9206b8aabf" />
+<img width="589" height="80" alt="duckdb_2" src="https://github.com/user-attachments/assets/4d422556-b8b1-49ac-ad1d-9d45f7bdd7ea" />
+
+
+
